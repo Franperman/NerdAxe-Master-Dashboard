@@ -6,8 +6,6 @@ This is a custom Python dashboard that uses `matplotlib`, `websockets`, and the 
 
 ![Dashboard Screenshot]<img width="1920" height="981" alt="dashboard" src="https://github.com/user-attachments/assets/c392b89f-b9d9-4b2c-8f03-ee6aac02da84" />
 
-*(Note: Drag and drop your screenshot image here when editing this README)*
-
 ## ✨ Features
 
 * 📡 **Live Scatter Radar (10 min):** Connects directly via WebSockets to plot every single share in real-time on a logarithmic scale.
