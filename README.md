@@ -19,13 +19,8 @@ This is a custom Python dashboard that uses `matplotlib`, `websockets`, and the 
 If you don't want to mess with Python, simply go to the **Releases** section on the right side of this page, download the standalone `.exe` file, and double-click it to run. 
 
 ## 🐍 How to Run via Python
+
 If you prefer to run the source code or modify it:
-
-⚙️ Configuration
-
-You can edit the INITIAL_IPS list at the top of the .py script to include your miners' local IPs so they load automatically on startup. You can also tweak the POOL_TARGET and time variables to fit your needs.
-
-Happy mining! Let me know if you build any cool modifications for this. 🔥
 
 1. Make sure you have Python 3 installed.
 2. Install the required libraries by running:
